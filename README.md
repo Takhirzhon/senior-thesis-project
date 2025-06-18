@@ -11,9 +11,6 @@ This project implements an AI-powered geospatial system designed to **predict an
 ## 🎯 Objective
 To provide a scalable, data-driven decision support system that helps stakeholders in **monitoring**, **forecasting**, and **managing landslide and mudflow risks** in vulnerable areas.
 
-## 📁 Project Structure
-
-
 ## 📖 Reference
 Based on the study:  
 **[AI-Driven Geospatial System for Predicting and Monitoring Landslides and Mudflows in Kyrgyzstan's South Region](https://www.researchgate.net/publication/392079798)**  
